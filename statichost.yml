@@ -1,0 +1,4 @@
+image: node:16
+
+command: npm install && npm run build
+public: ./dist
